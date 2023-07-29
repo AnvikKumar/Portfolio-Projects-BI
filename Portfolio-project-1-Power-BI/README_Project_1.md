@@ -26,25 +26,25 @@ Example of a Derived fields: from Total Revenue, finding the revenue brought in 
 ## Project Screenshots:
 
 ### Dashboard Page
-![Dashboard Page](https://github.com/AnvikKumar/Portfolio-project-1-Power-BI_/blob/main/Project%20Assets/dashboard.png)
+![Dashboard Page](https://github.com/AnvikKumar/Portfolio-Projects-BI/blob/main/Portfolio-project-1-Power-BI/Project%201%20Assets/dashboard.png)
 
 ### Dashboard with Slicer Panel shown
-![Dashboard with Slicer page](https://github.com/AnvikKumar/Portfolio-project-1-Power-BI_/blob/main/Project%20Assets/dash%20slicer.png)
+![Dashboard with Slicer page](https://github.com/AnvikKumar/Portfolio-Projects-BI/blob/main/Portfolio-project-1-Power-BI/Project%201%20Assets/dash%20slicer.png)
 
 ### Dashboard with a Visual Tooltip
-![Dashboard View with Visual Tooltip](https://github.com/AnvikKumar/Portfolio-project-1-Power-BI_/blob/main/Project%20Assets/visual%20tooltip.png)
+![Dashboard View with Visual Tooltip](https://github.com/AnvikKumar/Portfolio-Projects-BI/blob/main/Portfolio-project-1-Power-BI/Project%201%20Assets/visual%20tooltip.png)
 
 ### Map/Location Page
-![Map/Location Page](https://github.com/AnvikKumar/Portfolio-project-1-Power-BI_/blob/main/Project%20Assets/maps.png)
+![Map/Location Page](https://github.com/AnvikKumar/Portfolio-Projects-BI/blob/main/Portfolio-project-1-Power-BI/Project%201%20Assets/maps.png)
 
 ### Product Page
-![Product Page](https://github.com/AnvikKumar/Portfolio-project-1-Power-BI_/blob/main/Project%20Assets/product.png)
+![Product Page](https://github.com/AnvikKumar/Portfolio-Projects-BI/blob/main/Portfolio-project-1-Power-BI/Project%201%20Assets/product.png)
 
 ### Customer Page
-![Customer Page](https://github.com/AnvikKumar/Portfolio-project-1-Power-BI_/blob/main/Project%20Assets/customers.png)
+![Customer Page](https://github.com/AnvikKumar/Portfolio-Projects-BI/blob/main/Portfolio-project-1-Power-BI/Project%201%20Assets/customers.png)
 
 ### Model View of the Project
-![Model View](https://github.com/AnvikKumar/Portfolio-project-1-Power-BI_/blob/main/Project%20Assets/Model%20View.png)
+![Model View](https://github.com/AnvikKumar/Portfolio-Projects-BI/blob/main/Portfolio-project-1-Power-BI/Project%201%20Assets/Model%20View.png)
 
 ### Link for Project demonstration : [Click Here for Project Dashboard Demonstration](https://drive.google.com/file/d/146kNcRkV17KAnbwyH5tfkZ8-v-SN_S3S/view?usp=sharing)
 
