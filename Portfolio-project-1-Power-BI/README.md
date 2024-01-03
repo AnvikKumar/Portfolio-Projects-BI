@@ -1,8 +1,8 @@
 # My Portfolio Project 1 : Dashboard Development from an E commerce Dataset using Microsoft Power BI.
-### Step 1 : EDA - Exploratory Data Analysis (I worked almost 3 hours on this step)
+### Step 1 : EDA - Exploratory Data Analysis
 > In this step, The dataset was connected with Power BI using Direct Query, Dataset had 4 tables - Sales Table, Customer Table, Product Table, Territory (Location) Tables. The Columns in those relational tables needed a redo.
 
-### Step 2 : Data Transformation (I worked almost 2 days on this step)
+### Step 2 : Data Transformation
 > All transformation were one using M language and DAX(Design analysis Expression)
 Column transformation - Extract, combine, split to create dimensions/lookups. Textual transformation, Numnerical Tranformation - mainly to obtain Derived fields from the data which helps in further analysis using manily "Measures" in Power BI
 Example of a Derived fields: from Total Revenue, finding the revenue brought in during previous 45 days - which can be analysed over range of products.
@@ -11,7 +11,7 @@ Example of a Derived fields: from Total Revenue, finding the revenue brought in 
 ### Step 3 : Data Modelling 
 > Establishment of relationships between the Lookup/Dimension tables and Master Fact table.
 
-### Step 4 : Data Visualization (I worked almost 2 days on this step)
+### Step 4 : Data Visualization
 > All the data field obtained after rigorous transformation of the Data which is now represented on visuals. I got to learn use cases of some common graphs and also was able to learn common mistakes associated with them
 
 ### Step 5 : Formatting and Polishing
